@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/onepiece/Dobriq/YOLO/catkin_ws/install/include",
+                "/home/onepiece/Dobriq/ros/devel_isolated/skimap_ros/include",
+                "/home/onepiece/Dobriq/ros/devel_isolated/serial_test/include",
+                "/home/onepiece/Dobriq/ros/devel_isolated/orb_slam2_ros/include",
+                "/home/onepiece/Dobriq/ros/devel_isolated/imu_filter_madgwick/include",
+                "/home/onepiece/Dobriq/ros/devel_isolated/astra_camera/include",
+                "/home/onepiece/Dobriq/ros/devel/include",
+                "/home/onepiece/gx_ws/Apriltag_ws/devel/include",
+                "/home/onepiece/Turtlebot_ws/devel/include",
+                "/opt/ros/melodic/include",
+                "/home/onepiece/Dobriq/ros/src/ros_astra_camera/include",
+                "/home/onepiece/Dobriq/ros/src/camera_imu_calibration/include",
+                "/home/onepiece/Dobriq/ros/src/serial_test/include",
+                "/home/onepiece/Dobriq/ros/src/skimap_ros/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/lib/ccache/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,4 @@
+geometry_msgs/Point goal
+bool gohome
+---
+geometry_msgs/Point[] path
